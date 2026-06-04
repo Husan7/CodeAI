@@ -39,10 +39,12 @@ Comprehensive Support: In-depth queries, references.
 - 🤖 Google Gemini API
 
 ## 📷 Visual Preview
-<div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; align-items:flex-start; padding:16px;">
-  <img src="CodeAI/images/1709770603862.png" alt="CodeAI screenshot 1" style="max-width:320px; width:100%; border-radius:16px; box-shadow:0 12px 30px rgba(0,0,0,0.18);" />
-  <img src="CodeAI/images/1709770531188.png" alt="CodeAI screenshot 2" style="max-width:320px; width:100%; border-radius:16px; box-shadow:0 12px 30px rgba(0,0,0,0.18);" />
-  <img src="CodeAI/images/1709769617086.png" alt="CodeAI screenshot 3" style="max-width:320px; width:100%; border-radius:16px; box-shadow:0 12px 30px rgba(0,0,0,0.18);" />
-  <img src="CodeAI/images/23.png" alt="CodeAI screenshot 4" style="max-width:320px; width:100%; border-radius:16px; box-shadow:0 12px 30px rgba(0,0,0,0.18);" />
-</div>
+![CodeAI screenshot 1](./CodeAI/images/1709770603862.png)
+
+![CodeAI screenshot 2](./CodeAI/images/1709770531188.png)
+
+![CodeAI screenshot 3](./CodeAI/images/1709769617086.png)
+
+![CodeAI screenshot 4](./CodeAI/images/23.png)
+
 
