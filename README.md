@@ -38,3 +38,12 @@ Comprehensive Support: In-depth queries, references.
 - 🐙 GitHub API
 - 🤖 Google Gemini API
 
+## 📷 Screenshots
+![Screenshot 1](file:///C:/Users/bawa4/Downloads/1709770603862.png)
+
+![Screenshot 2](file:///C:/Users/bawa4/Downloads/1709770531188.png)
+
+![Screenshot 3](file:///C:/Users/bawa4/Downloads/1709769617086.png)
+
+![Screenshot 4](file:///C:/Users/bawa4/Downloads/23.png)
+
