@@ -4,7 +4,7 @@
 In software development, a significant portion of a developer's time—up to 60%—is spent not in writing code, but in reading and understanding existing codebases. This task becomes even more hectic when the code is vast, large, and lacks proper documentation. 
  CodeAI is a solution that addresses major pain points of developers. CodeAI acts like a senior developer, helping you understand large codebases easily. You can ask any doubts and queries you have about the codebase (eg: Where is razorpay API called in ? or explain razorpay API function and different functions dependencies), and not only that, but it also generates documentation for you and your teammates :D
 
-Features of CodeAI  include:
+# Features of CodeAI  include:
 
 Article content
 Features
